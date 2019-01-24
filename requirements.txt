@@ -1,0 +1,2 @@
+loggersdk
+requests
